@@ -1,6 +1,6 @@
-//GRUPO: Jessica Cavalcante; Victor Temple
+//GRUPO: Victor Temple
 //NOME DO GRUPO: LinkedIn
-//Apresentação de exemplos de algoritmos de Insertion Sort e Selection Sort
+//ApresentaÃ§Ã£o de exemplos de algoritmos de Insertion Sort e Selection Sort
 
 #include <stdio.h>
 #include <stdlib.h>
